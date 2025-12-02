@@ -25,7 +25,7 @@
         <mxCell id="CEFuuDwjMV0ArR9IbPQC-12" edge="1" parent="1" source="CEFuuDwjMV0ArR9IbPQC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CEFuuDwjMV0ArR9IbPQC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEFuuDwjMV0ArR9IbPQC-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Display Screen: Ask Questions (in order)&lt;div&gt;&lt;div&gt;1. Household head name&lt;/div&gt;&lt;div&gt;2. No. of Household members&lt;/div&gt;&lt;div&gt;3. Enter Names of household members&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CEFuuDwjMV0ArR9IbPQC-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ask Questions (in order)&lt;div&gt;&lt;div&gt;1. Household head name&lt;/div&gt;&lt;div&gt;2. No. of Household members&lt;/div&gt;&lt;div&gt;3. Enter Names of household members&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="238" x="306" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CEFuuDwjMV0ArR9IbPQC-15" edge="1" parent="1" source="CEFuuDwjMV0ArR9IbPQC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CEFuuDwjMV0ArR9IbPQC-14">
